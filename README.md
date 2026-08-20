@@ -1,11 +1,11 @@
 # Yatra Clone — White-Label Travel & Booking Marketplace Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxyatra.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/yatra-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/yatra-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/yatra-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/yatra-clone/#features)
 
-**MXYatra** is a production-ready, white-label Yatra clone: a complete travel & booking marketplace with traveler, supplier, and admin panels — delivered with **100% source code ownership** in **6 working days**.
+**MXDemo** is a production-ready, white-label Yatra clone: a complete travel & booking marketplace with traveler, supplier, and admin panels — delivered with **100% source code ownership** in **6 working days**.
 
 > ✈️ **See it running before you talk to anyone.** Live traveler app, agent dashboard, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/yatra-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Traveler App | [mas.mimeld.com](https://mas.mimeld.com) | Search, compare, book, manage itineraries |
-| 🌐 Web Booking | [mxyatra.mimeld.com](https://mxyatra.mimeld.com) | Full travel experience in the browser |
+| 🌐 Web Booking | [mxdemo.mimeld.com](https://mxdemo.mimeld.com) | Full travel experience in the browser |
 | 🏨 Agent Dashboard | [Solution page → Demo](https://miracuves.com/yatra-clone#demo) | Inventory, bookings, pricing, customer support |
 | 🛠️ Admin Console | [Solution page → Demo](https://miracuves.com/yatra-clone#demo) | Partners, categories, commissions, fraud, analytics |
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/yatra-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/yatra-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom travel platforms run $80k–$500k and 6–12 months. A proven white-label
 ## 📚 Resources
 
 - 📖 [Yatra Clone — Full Solution Page](https://miracuves.com/yatra-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Travel App Cost in 2026?](https://miracuves.com/yatra-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Yatra Clone Script in 2026](https://miracuves.com/yatra-clone/blog/) features, pricing & launch guide
-- 🧠 [Multi-Modal Booking Is the New Travel Stack](https://miracuves.com/yatra-clone/blog/) hotels + flights + experiences in one cart
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/yatra-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Travel App Cost in 2026?](https://miracuves.com/yatra-clone#features) pricing breakdown & what's included
+- 📝 [Best Yatra Clone Script in 2026](https://miracuves.com/yatra-clone#features) features, pricing & launch guide
+- 🧠 [Multi-Modal Booking Is the New Travel Stack](https://miracuves.com/yatra-clone#features) hotels + flights + experiences in one cart
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/yatra-clone#faq) every claim we make, verified
+- 💻 [Yatra Clone — Technical Stack](https://miracuves.com/yatra-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Yatra Clone — How It Works / User Flow](https://miracuves.com/yatra-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom travel platforms run $80k–$500k and 6–12 months. A proven white-label
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/yatra-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/yatra-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: yatra clone, yatra clone script, travel booking, OTA platform, hotel booking, flight booking, white label travel, Flutter travel app, Node.js travel platform*
 
@@ -106,9 +108,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Yatra Clone
-{MX_NAME}         MXYatra
+{MX_NAME}         MXDemo
 {CATEGORY}        Travel & Booking Marketplace Platform
-{DEMO_WEB}        mxyatra.mimeld.com
+{DEMO_WEB}        mxdemo.mimeld.com
 {PRICE}           $2,899
 {SLUG}            yatra-clone
 {SOLUTION_URL}    https://miracuves.com/yatra-clone/
